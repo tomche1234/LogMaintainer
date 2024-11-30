@@ -3,7 +3,7 @@
 
 ## Overview
 - This is a repo of Library in Python called `LogMaintainer`
-- The package requires Python 3.11.8+
+- The package requires Python 3.11.3+
 
 ## Installation
 ```

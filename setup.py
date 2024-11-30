@@ -15,7 +15,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.11.8',
+    python_requires='>=3.11.3',
     install_requires=[
         # Add your package dependencies here
     ],
